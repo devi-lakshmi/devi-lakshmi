@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lakshmidevi</h1>
 <h3 align="center">A passionate Full-Stack developer from Nederland.</h3>
 
-- 🔭 I’m currently working on **voting_app**
+- 🔭 I’m currently working on **ColorExplorer**
 
 - 🌱 I’m currently learning **React-Native**
 
